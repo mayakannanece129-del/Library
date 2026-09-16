@@ -1,0 +1,6 @@
+{
+  "name": "Library Management System",
+  "description": "A complete web-based Library Management System for colleges and schools to manage books, members, borrowing, returns, fines, and reports with Supabase database integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
